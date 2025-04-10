@@ -1,5 +1,17 @@
 # 💫 Sobre mim:
-Atualmente, estou focado no desenvolvimento de sistemas escaláveis e de alto desempenho, com ênfase em automação e integração tanto em back-end web quanto em sistemas embarcados.<br><br>Estou aberto a colaborações em projetos relacionados a hacking ético, segurança da informação e ao desenvolvimento de sistemas robustos, tanto web quanto embarcados, especialmente em Python.<br><br>Estou em busca de insights e expertise em tecnologias de segurança de ponta e técnicas avançadas de criptografia para aprimorar ainda mais meu conhecimento em hacking ético e cibersegurança.<br><br>Estou expandindo minha especialização em tecnologias emergentes, particularmente nas áreas de cibersegurança, métodos avançados de criptografia e novos desenvolvimentos em sistemas embarcados e IoT.<br><br>Embora eu seja apaixonado por tecnologia e trabalhe constantemente com sistemas complexos, também gosto de descobrir maneiras criativas e inovadoras de otimizar processos industriais por meio da automação e de soluções embarcadas.
+Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT.
+
+Além da minha formação acadêmica, dedico-me ao estudo abrangente de diversos assuntos da tecnologia, com ênfase em hacking ético e segurança da informação. Este interesse reflete não apenas minha curiosidade intelectual, mas também minha compreensão da importância crítica da proteção de dados e sistemas no ambiente digital atual.
+
+Tenho habilidades sólidas em coordenação de equipes e liderança, com foco principal em identificar e implementar soluções inovadoras que impulsionem o desempenho da empresa e impactem positivamente outros setores.
+
+Possuo conhecimento avançado em Python, utilizando diversos frameworks como Django, Flask, Streamlit e Kivy. Sou proficiente em ferramentas de análise de dados como Pandas e Plotly, além de técnicas de criptografia como BlowFish e SHA256. Tenho também experiência em desenvolvimento com C#, C++ e SQL, trabalhando com bancos de dados como Oracle, SQL Server, MySQL e SQLite.
+
+Para desenvolvimento web, tenho ampla experiência com bibliotecas e frameworks Python como FastAPI, Tornado e Pyramid, bem como em criar e consumir APIs RESTful. Utilizo técnicas modernas de deploy e automação, como Docker e CI/CD, para garantir a escalabilidade e eficiência dos projetos.
+
+No campo do desenvolvimento embarcado, trabalho com MicroPython e CircuitPython, criando soluções robustas para sistemas industriais e automação de processos. Minha experiência inclui integração de hardware e software, bem como otimização de código para hardware de recursos limitados.
+
+Minha expertise se concentra especialmente no desenvolvimento Back-End Web e de sistemas embarcados. Além disso, estou constantemente aprimorando minhas habilidades e conhecimentos em áreas emergentes da tecnologia para me manter atualizado com as melhores práticas e tendências do setor. Meu objetivo é sempre buscar soluções eficientes e seguras que contribuam para o sucesso organizacional e a inovação tecnológica.
 
 
 ## 🌐 Redes Sociais:
