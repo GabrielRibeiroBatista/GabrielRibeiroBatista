@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT.
+Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e Pós-graduando em Arquitetura de software.
 
 Além da minha formação acadêmica, dedico-me ao estudo abrangente de diversos assuntos da tecnologia, com ênfase em hacking ético e segurança da informação. Este interesse reflete não apenas minha curiosidade intelectual, mas também minha compreensão da importância crítica da proteção de dados e sistemas no ambiente digital atual.
 
