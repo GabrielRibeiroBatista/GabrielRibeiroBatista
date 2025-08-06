@@ -1,17 +1,29 @@
 # 💫 Sobre mim:
-Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e Pós-graduando em Arquitetura de software.
+Sou desenvolvedor Full-Stack, graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e pós-graduado em Arquitetura de Software.
 
-Além da minha formação acadêmica, dedico-me ao estudo abrangente de diversos assuntos da tecnologia, com ênfase em hacking ético e segurança da informação. Este interesse reflete não apenas minha curiosidade intelectual, mas também minha compreensão da importância crítica da proteção de dados e sistemas no ambiente digital atual.
+Atuo no desenvolvimento de sistemas escaláveis, seguros e de alta performance, com especialização em back-end web e sistemas embarcados. Tenho experiência sólida na construção de soluções robustas, com foco em eficiência, integração, automação de processos e segurança da informação.
 
-Tenho habilidades sólidas em coordenação de equipes e liderança, com foco principal em identificar e implementar soluções inovadoras que impulsionem o desempenho da empresa e impactem positivamente outros setores.
+# 🔧 Áreas de atuação
+## 🖥️ Back-End
+Domínio avançado de Python com frameworks como Django, Flask, FastAPI, Streamlit, Tornado e Pyramid. Experiência com C# e C++, criação e consumo de APIs RESTful, modelagem de sistemas, integração entre serviços e aplicação de boas práticas de arquitetura.
 
-Possuo conhecimento avançado em Python, utilizando diversos frameworks como Django, Flask, Streamlit e Kivy. Sou proficiente em ferramentas de análise de dados como Pandas e Plotly, além de técnicas de criptografia como BlowFish e SHA256. Tenho também experiência em desenvolvimento com C#, C++ e SQL, trabalhando com bancos de dados como Oracle, SQL Server, MySQL e SQLite.
+## 🎨 Front-End
+Desenvolvimento de interfaces modernas com HTML5, CSS3, JavaScript (ES6+) e React. Criação de aplicações responsivas, com foco em usabilidade e experiência do usuário.
 
-Para desenvolvimento web, tenho ampla experiência com bibliotecas e frameworks Python como FastAPI, Tornado e Pyramid, bem como em criar e consumir APIs RESTful. Utilizo técnicas modernas de deploy e automação, como Docker e CI/CD, para garantir a escalabilidade e eficiência dos projetos.
+## 🗃️ Bancos de Dados e Análise de Dados
+Experiência com Oracle, SQL Server, MySQL e SQLite. Modelagem relacional, otimização de queries e automações orientadas a dados. Manipulação e visualização com Pandas e Plotly.
 
-No campo do desenvolvimento embarcado, trabalho com MicroPython e CircuitPython, criando soluções robustas para sistemas industriais e automação de processos. Minha experiência inclui integração de hardware e software, bem como otimização de código para hardware de recursos limitados.
+## 📟 Sistemas Embarcados
+Desenvolvimento com MicroPython e CircuitPython em dispositivos de recursos limitados. Integração entre hardware e software para automação industrial, com foco em desempenho e confiabilidade.
 
-Minha expertise se concentra especialmente no desenvolvimento Back-End Web e de sistemas embarcados. Além disso, estou constantemente aprimorando minhas habilidades e conhecimentos em áreas emergentes da tecnologia para me manter atualizado com as melhores práticas e tendências do setor. Meu objetivo é sempre buscar soluções eficientes e seguras que contribuam para o sucesso organizacional e a inovação tecnológica.
+## ⚙️ DevOps e Deploy
+Uso de Docker, versionamento com Git, integração e entrega contínua (CI/CD), automação de ambientes, provisionamento de infraestrutura e práticas modernas de deploy.
+
+## 🔐 Segurança da Informação e Arquitetura
+Sou entusiasta de segurança ofensiva e defensiva, com foco em hacking ético, criptografia (como BlowFish e SHA256) e proteção de dados. Minhas decisões técnicas são baseadas em princípios de arquitetura limpa, segurança por padrão e modularidade, sempre alinhadas aos requisitos críticos do negócio.
+
+## 🧭 Liderança Técnica
+Tenho habilidades consolidadas em liderança e coordenação de times, orientando o time técnico à adoção de boas práticas, entregas consistentes e soluções inovadoras com alto valor agregado.
 
 
 ## 🌐 Redes Sociais:
