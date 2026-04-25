@@ -1,29 +1,30 @@
 # 💫 Sobre mim:
-Sou desenvolvedor Full-Stack, graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e pós-graduado em Arquitetura de Software.
+Supervisor de TI e Desenvolvimento | Full-Stack Developer | Especialista em IA e Segurança
+
+Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e pós-graduado em Arquitetura de Software. Com mais de 7 anos de experiência, atuo na intersecção entre a estratégia de negócios e a execução tecnológica de alta performance.
+
+Atualmente, lidero equipes multidisciplinares na coordenação de ciclos de vida de aplicações proprietárias, desde a concepção da stack até a orquestração em escala global. Sou especialista na construção de ecossistemas integrados (ERPs/Hubs de APIs) e na implementação de soluções de Inteligência Artificial Generativa.
 
 Atuo no desenvolvimento de sistemas escaláveis, seguros e de alta performance, com especialização em back-end web e sistemas embarcados. Tenho experiência sólida na construção de soluções robustas, com foco em eficiência, integração, automação de processos e segurança da informação.
 
 # 🔧 Áreas de atuação
-## 🖥️ Back-End
-Domínio avançado de Python com frameworks como Django, Flask, FastAPI, Streamlit, Tornado e Pyramid. Experiência com C# e C++, criação e consumo de APIs RESTful, modelagem de sistemas, integração entre serviços e aplicação de boas práticas de arquitetura.
+## 🚀 Liderança e Estratégia de TI
+Gestão completa do ciclo de vida de produtos internos (SDLC), mentoria técnica e coordenação de times de desenvolvimento e infraestrutura. Foco em alinhar a tecnologia aos objetivos estratégicos e à escalabilidade do negócio.
 
-## 🎨 Front-End
-Desenvolvimento de interfaces modernas com HTML5, CSS3, JavaScript (ES6+) e React. Criação de aplicações responsivas, com foco em usabilidade e experiência do usuário.
+## 🖥️ Back-End & Integrações
+Domínio avançado de Python (Django, FastAPI, Flask, Streamlit). Expertise na criação de hubs de APIs para sincronização internacional de dados e integração profunda com ecossistemas de terceiros (MEGA ERP, PDM PRO.FILE, Monday).
 
-## 🗃️ Bancos de Dados e Análise de Dados
-Experiência com Oracle, SQL Server, MySQL e SQLite. Modelagem relacional, otimização de queries e automações orientadas a dados. Manipulação e visualização com Pandas e Plotly.
+## 🤖 Inteligência Artificial & Dados
+Desenvolvimento de soluções avançadas como Chatbots de IA utilizando RAG (Retrieval-Augmented Generation) e Machine Learning. Experiência em arquitetura de dados com SQL Server, Oracle e PostgreSQL, além de análise de dados com Pandas e Plotly.
 
-## 📟 Sistemas Embarcados
-Desenvolvimento com MicroPython e CircuitPython em dispositivos de recursos limitados. Integração entre hardware e software para automação industrial, com foco em desempenho e confiabilidade.
+## 🔐 Segurança da Informação (Cybersecurity)
+Atuação prática em segurança ofensiva e defensiva, conduzindo testes de SAST, DAST e Pentesting. Foco em proteção de APIs, análise de vulnerabilidades, criptografia e conformidade técnica em cenários globais.
 
-## ⚙️ DevOps e Deploy
-Uso de Docker, versionamento com Git, integração e entrega contínua (CI/CD), automação de ambientes, provisionamento de infraestrutura e práticas modernas de deploy.
+## ⚙️ Infraestrutura & DevOps
+Orquestração de servidores Linux/Windows, conteinerização com Docker, implementação de pipelines de CI/CD e automação de fluxos de trabalho (n8n). Experiência em serviços de nuvem (Azure, Oracle Cloud) e infraestrutura de rede (NGINX/Apache/AD).
 
-## 🔐 Segurança da Informação e Arquitetura
-Sou entusiasta de segurança ofensiva e defensiva, com foco em hacking ético, criptografia (como BlowFish e SHA256) e proteção de dados. Minhas decisões técnicas são baseadas em princípios de arquitetura limpa, segurança por padrão e modularidade, sempre alinhadas aos requisitos críticos do negócio.
-
-## 🧭 Liderança Técnica
-Tenho habilidades consolidadas em liderança e coordenação de times, orientando o time técnico à adoção de boas práticas, entregas consistentes e soluções inovadoras com alto valor agregado.
+## 📟 Sistemas Embarcados & Mobilidade
+Desenvolvimento com MicroPython/CircuitPython para automação industrial e criação de aplicativos Android integrados a coletores de dados (Zebra/Chainway) para logística e inventário.
 
 
 ## 🌐 Redes Sociais:
