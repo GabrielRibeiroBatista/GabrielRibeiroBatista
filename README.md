@@ -1,31 +1,30 @@
-# 💫 Sobre mim:
-Supervisor de TI e Desenvolvimento | Full-Stack Developer | Especialista em IA e Segurança
+# 💫 About Me:
+IT & Development Supervisor | Full-Stack Developer | AI & Security Specialist
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela Faculdade VINCIT e pós-graduado em Arquitetura de Software. Com mais de 7 anos de experiência, atuo na intersecção entre a estratégia de negócios e a execução tecnológica de alta performance.
+I hold a degree in Systems Analysis and Development from Faculdade VINCIT and a Post-graduate degree in Software Architecture. With over 7 years of experience, I operate at the intersection of business strategy and high-performance technological execution.
 
-Atualmente, lidero equipes multidisciplinares na coordenação de ciclos de vida de aplicações proprietárias, desde a concepção da stack até a orquestração em escala global. Sou especialista na construção de ecossistemas integrados (ERPs/Hubs de APIs) e na implementação de soluções de Inteligência Artificial Generativa.
+Currently, I lead multidisciplinary teams in coordinating the full lifecycle of proprietary applications—from stack conception to global-scale orchestration. I specialize in building integrated ecosystems (ERPs/API Hubs) and implementing Generative AI solutions.
 
-Atuo no desenvolvimento de sistemas escaláveis, seguros e de alta performance, com especialização em back-end web e sistemas embarcados. Tenho experiência sólida na construção de soluções robustas, com foco em eficiência, integração, automação de processos e segurança da informação.
+I focus on developing scalable, secure, and high-performance systems, with deep expertise in web back-ends and embedded systems. I have a solid track record of building robust solutions centered on efficiency, integration, process automation, and information security.
 
-# 🔧 Áreas de atuação
-## 🚀 Liderança e Estratégia de TI
-Gestão completa do ciclo de vida de produtos internos (SDLC), mentoria técnica e coordenação de times de desenvolvimento e infraestrutura. Foco em alinhar a tecnologia aos objetivos estratégicos e à escalabilidade do negócio.
+# 🔧 Areas of Expertise
+## 🚀 IT Leadership & Strategy
+Full lifecycle management of internal products (SDLC), technical mentoring, and coordination of development and infrastructure teams. Focused on aligning technology with strategic business goals and scalability.
 
-## 🖥️ Back-End & Integrações
-Domínio avançado de Python (Django, FastAPI, Flask, Streamlit). Expertise na criação de hubs de APIs para sincronização internacional de dados e integração profunda com ecossistemas de terceiros (MEGA ERP, PDM PRO.FILE, Monday).
+## 🖥️ Back-End & Integrations
+Advanced proficiency in Python (Django, FastAPI, Flask, Streamlit). Expertise in building API Hubs for international data synchronization and deep integration with third-party ecosystems (MEGA ERP, PDM PRO.FILE, Monday).
 
-## 🤖 Inteligência Artificial & Dados
-Desenvolvimento de soluções avançadas como Chatbots de IA utilizando RAG (Retrieval-Augmented Generation) e Machine Learning. Experiência em arquitetura de dados com SQL Server, Oracle e PostgreSQL, além de análise de dados com Pandas e Plotly.
+## 🤖 AI & Data Science
+Developing advanced solutions such as AI Chatbots using RAG (Retrieval-Augmented Generation) and Machine Learning. Experienced in data architecture with SQL Server, Oracle, and PostgreSQL, alongside data analysis and visualization using Pandas and Plotly.
 
-## 🔐 Segurança da Informação (Cybersecurity)
-Atuação prática em segurança ofensiva e defensiva, conduzindo testes de SAST, DAST e Pentesting. Foco em proteção de APIs, análise de vulnerabilidades, criptografia e conformidade técnica em cenários globais.
+## 🔐 Cybersecurity
+Hands-on experience in offensive and defensive security, conducting SAST, DAST, and Pentesting. Focused on API protection, vulnerability analysis, encryption, and technical compliance within global corporate environments.
 
-## ⚙️ Infraestrutura & DevOps
-Orquestração de servidores Linux/Windows, conteinerização com Docker, implementação de pipelines de CI/CD e automação de fluxos de trabalho (n8n). Experiência em serviços de nuvem (Azure, Oracle Cloud) e infraestrutura de rede (NGINX/Apache/AD).
+## ⚙️ Infrastructure & DevOps
+Orchestration of Linux/Windows servers, containerization with Docker, implementation of CI/CD pipelines, and workflow automation (n8n). Experienced in cloud services (Azure, Oracle Cloud) and network infrastructure (NGINX/Apache/AD).
 
-## 📟 Sistemas Embarcados & Mobilidade
-Desenvolvimento com MicroPython/CircuitPython para automação industrial e criação de aplicativos Android integrados a coletores de dados (Zebra/Chainway) para logística e inventário.
-
+## 📟 Embedded Systems & Mobility
+Development with MicroPython/CircuitPython for industrial automation and creation of Android applications integrated with data collectors (Zebra/Chainway) for logistics and inventory management.
 
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TPQGSZw2BV) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-ribeiro-batista-5b3333170/) 
