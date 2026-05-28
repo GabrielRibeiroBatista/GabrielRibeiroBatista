@@ -26,7 +26,7 @@ Orchestration of Linux/Windows servers, containerization with Docker, implementa
 ## 📟 Embedded Systems & Mobility
 Development with MicroPython/CircuitPython for industrial automation and creation of Android applications integrated with data collectors (Zebra/Chainway) for logistics and inventory management.
 
-# 🌐 Redes Sociais:
+# 🌐 Social Media:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TPQGSZw2BV) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-ribeiro-batista/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=github)](https://gabrielribeirobatista.github.io/portfolio/)
