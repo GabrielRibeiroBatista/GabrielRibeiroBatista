@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT & Development Supervisor | Full-Stack Developer | AI & Security Specialist
+IT & Development Supervisor | Full-Stack Developer | AI Specialist
 
 I hold a degree in Systems Analysis and Development from Faculdade VINCIT and a Post-graduate degree in Software Architecture. With over 7 years of experience, I operate at the intersection of business strategy and high-performance technological execution.
 
